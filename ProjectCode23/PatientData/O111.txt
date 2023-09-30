@@ -1,0 +1,8 @@
+20 Dec2022; Plastic Surgery
+21 Dec2022; Allergy to phospusrous;
+20 Dec2022; Hand Surgery
+11Jan2022; Leg Surgery
+10Dec2022,Covid Infected
+15Dec2022, Covid Cured
+20Dec2019, Cold Attack
+21Dec2022, Cold Cured
